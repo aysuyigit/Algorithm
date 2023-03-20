@@ -2,3 +2,6 @@ Faktorian Number :
 If a number is equal to the sum of the factorials of its digits, this number is called a factorial number.
 E.G.  = (145 ) , Faktorion.jpg
 
+Symmetric matrix:
+If all the elements in a square matrix are symmetric about the prime diagonal, this matrix is called a symmetric matrix
+E.G. = Matris.jpg
